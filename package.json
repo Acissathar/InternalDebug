@@ -1,7 +1,7 @@
 {
     "name": "com.acissathar.internaldebug",
     "displayName": "Internal Debug",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "6000.0",
     "description": "This is a static `InternalDebug` wrapper class for the `UnityEngine.Debug` class. Any call from this class will only be present when the build is either a Development Build or build in Development Mode.",
     "author": {
