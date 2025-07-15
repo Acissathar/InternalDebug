@@ -1,13 +1,12 @@
 {
-  "name": "com.acissathar.internaldebug",
-  "displayName": "Internal Debug",
-  "version": "1.0.0",
-  "unity": "6000.0",
-  "description": "This is a static `InternalDebug` wrapper class for the `UnityEngine.Debug` class. Any call from this class will only be present when the build is either a Development Build or build in Development Mode.",
-  "author": {
-    "name": "Will B",
-    "email": "acissathar@gmail.com",
-    "url": "https://github.com/Acissathar/InternalDebug/tree/main"
-  }
-  ]
+    "name": "com.acissathar.internaldebug",
+    "displayName": "Internal Debug",
+    "version": "1.0.0",
+    "unity": "6000.0",
+    "description": "This is a static `InternalDebug` wrapper class for the `UnityEngine.Debug` class. Any call from this class will only be present when the build is either a Development Build or build in Development Mode.",
+    "author": {
+        "name": "Will B",
+        "email": "acissathar@gmail.com",
+        "url": "https://github.com/Acissathar/InternalDebug/tree/main"
+    }
 }
